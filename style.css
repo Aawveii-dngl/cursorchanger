@@ -1,0 +1,13 @@
+* {
+  margin: 0;
+  padding: 0;
+}
+.total-container {
+  height: 400px;
+  width: 400px;
+  position: absolute;
+  top: 30%;
+  left: 40%;
+  background-color: #cea123;
+  cursor: url("/hover.png"), pointer;
+}
